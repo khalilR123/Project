@@ -3,3 +3,6 @@ rdkit
 pillow
 pubchempy
 matplotlib
+stmol
+py3Dmol
+
